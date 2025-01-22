@@ -24,3 +24,7 @@ If you are interested in our work, follow [me](https://www.instagram.com/hanx_we
          - Feeding Rate-Move: The nozzle move speed in led-in/led-out...
          - Save to: the folder save to (end with .gcode).
 5. Display the *Node: Export_file*, after cook the .gcode file will be saved to the given folder.
+
+## Printed
+![b080bbffdd401ab46817df8325832eb](https://github.com/user-attachments/assets/abce32c1-19ff-4e39-b974-3c36c99f335b)
+![6cecfa8d76cab73c189bde98ffe66d5](https://github.com/user-attachments/assets/0c2eddc8-2c8c-402d-baf2-473e52531552)
