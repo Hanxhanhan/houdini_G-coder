@@ -10,7 +10,8 @@ The [presentation from Prof. Diego Garcia Cuevas](https://www.youtube.com/watch?
 If you are interested in our work, follow [me](https://www.instagram.com/hanx_wei?) and [Beckett Lab](https://www.instagram.com/beckettlab/) in instagram.
 
 ## To use Gcoder in houdini
-![image](https://github.com/user-attachments/assets/7ec2859f-70de-436b-b762-a5215b602cc3)
+
+![image](https://github.com/user-attachments/assets/dca305f4-3ed6-4475-a69a-d5bf25f8ad6e)
 
 0. This Gcoder sample is developed for [WASP 2040](https://www.3dwasp.com/en/ceramic-3d-printing/delta-wasp-2040clay/) and tested at B-made, you should use **your own start and end codes** for your printer. Please check workpiece dimension of your printer before use.
 1. Reeplace or edit *Node: Printing_Bed* with your printing bed size in millimeter.
